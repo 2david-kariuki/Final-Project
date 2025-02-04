@@ -63,3 +63,12 @@ footer {
   bottom: 0;
   width: 100%;
 }
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+form label {
+  margin-top: 10px;
+}
