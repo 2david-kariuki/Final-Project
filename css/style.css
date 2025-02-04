@@ -72,3 +72,10 @@ form {
 form label {
   margin-top: 10px;
 }
+
+form input,
+form text area,
+form button {
+  margin-top: 5px;
+  padding: 0.5em;
+}
