@@ -21,3 +21,16 @@
   border-radius: 10px;
   box-shadow: 0 4px 6px rgba(red, green, blue, alpha);
 }
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: bisque;
+  color: rgb(155, 141, 63);
+  padding: 1rem;
+  text-align: center;
+}
