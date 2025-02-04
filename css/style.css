@@ -5,3 +5,10 @@
   gap: 40px;
   text-decoration: none;
 }
+.logo-container {
+  align-items: center;
+}
+.logo {
+  height: 50px;
+  width: 50px;
+}
