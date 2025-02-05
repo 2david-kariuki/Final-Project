@@ -1,7 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
   const contactForm = document.getElementById("contactForm");
   const bookButton = document.getElementById("bookApointment");
-
   if (contactForm) {
     contactForm.addEventListener("submit", (event) => {
       event.preventDefault();
